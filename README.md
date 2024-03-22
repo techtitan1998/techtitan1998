@@ -1,3 +1,6 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Arslan Ishrat</h1>
+<h3 align="center">Full Stack Developer from Pakistan</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Autonomous Negotiations Project<br>👯 I’m looking to collaborate with other developers <br>🌱 I’m currently learning Data Structure and Algorithms<br>💬 Ask me about React, Node, Express, Next, JavaScript, and TypeScript
 
